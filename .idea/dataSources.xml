@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2958648535">
+    <data-source source="LOCAL" name="PostgreSQL - calendar@localhost" uuid="5202d3fa-4bee-40b9-9764-2d3ebe1d46b0">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/calendar</jdbc-url>
+    </data-source>
+  </component>
+</project>
